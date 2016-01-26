@@ -101,7 +101,7 @@
 				<h3>Formations</h3>
 				<ul>
 					<li>
-						<h4><strong>MANCE </strong> à nom de l'école</h4>
+						<h4><strong>MANCE </strong> </h4>
 						<span class="lieu">Laboratoire de Recherche de l'école de Chimie Paris</span>
 						<span class="dates">2005-2006</span>
 						<p>Mise A Niveau en Chimie Expérimentale</p>
@@ -128,10 +128,10 @@
 				<h3>Contact</h3>
 				<p>Si mon profil vous intéresse, n'hésitez pas à me contacter :</p>
 				<ul>
-					<li class="lieu">Paris, France</li>
-					<li class="phone">06 00 00 00 00</li>
-					<li class="mail"><a href="mailto:mon.adresse@email.fr">mon.adresse@email.fr</a></li>
-					<li class="site"><a href="http://www.mon-site.fr/">www.mon-site.fr</a></li>
+					<li class="lieu"> 42 Rue de Paris, passez par la plaque d'égout !, Paris, France</li>
+					
+					<li class="mail"><a href="mailto:mon.adresse@email.fr">cecile.souris@fromage.fr</a></li>
+					
 					<li class="form"><a class="toContactform">via le formulaire de contact</a></li>
                     <li class="form"><a class="toContactform">via le formulaire de contact</a></li>
 				</ul>
