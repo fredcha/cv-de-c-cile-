@@ -74,11 +74,10 @@ Duis ut erat neque, eget consectetur tellus. </p>
 			<div class="grid_8 competences">
 				<h3>Compétences</h3>
 				<ul class="barres">
-					<li data-skills="80">Compétences 1<span style="width: 80%;"></span></li>
-					<li data-skills="60">Compétences 2<span style="width: 60%;"></span></li>
-					<li data-skills="75">Compétences 3<span style="width: 75%;"></span></li>
-					<li data-skills="40">Compétences 4<span style="width: 40%;"></span></li>
-					<li data-skills="95">Compétences 5<span style="width: 95%;"></span></li>
+					<li data-skills="80">Discrétion<span style="width: 80%;"></span></li>
+					<li data-skills="60">Mobilité<span style="width: 60%;"></span></li>
+					<li data-skills="75">Adaptabilité<span style="width: 75%;"></span></li>
+					<li data-skills="40">Fourberie<span style="width: 40%;"></span></li>
 				</ul>
 			</div>
 		</div>
@@ -111,16 +110,16 @@ nature de votre travail.</p>
 				<h3>Formations</h3>
 				<ul>
 					<li>
-						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
-						<span class="lieu">Lieu</span>
-						<span class="dates">Période</span>
-						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
+						<h4><strong>MANCE </strong> à nom de l'école</h4>
+						<span class="lieu">Laboratoire de Recherche de l'école de Chimie Paris</span>
+						<span class="dates">2005-2006</span>
+						<p>Mise A Niveau en Chimie Expérimentale</p>
 					</li>
 					<li>
-						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
-						<span class="lieu">Lieu</span>
-						<span class="dates">Période</span>
-						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
+						<h4><strong>Souris Squatteuse, spécialité RF</strong> Souris Squatteuses</h4>
+						<span class="lieu">Caves du Ministère</span>
+						<span class="dates">2005</span>
+						<p>J'ai suivi une formation classique de Souris Squatteuse avec une spécialité dans la Recherche de Fromage.</p>
 					</li>
 				</ul>
 			</div>
