@@ -32,7 +32,11 @@
 				</hgroup>
 
 				<figure>
+<<<<<<< HEAD
 					<img src="cecile/avatar.jpg" alt="Cecile">
+=======
+					<img src="cecile/Cecile.jpg" alt="Cecile">
+>>>>>>> ff20ea25f6f29f67d57b3eeb1634602f088e5bb0
 				</figure>
 		</div>
 	</header>
@@ -41,7 +45,11 @@
 	<section class="contactform clearfix">
 		<div class="container_16">
 			<h3>Contactez-moi</h3>
+<<<<<<< HEAD
 			<p>Remplissez le formulaire ci-dessous afin de m'envoyer un message. Je vous répondrais dans les plus bref délai. 
+=======
+			<p>Remplissez le formulaire ci-dessous afin de m'envoyer un message. Je vous répondrais dans les plus brefs délai. 
+>>>>>>> ff20ea25f6f29f67d57b3eeb1634602f088e5bb0
 			<br><em>Tous les champs sont requis.</em></p>
 			<form novalidate="novalidate" method="post" action="#" name="contact" class="grid_16">
 				<p class="grid_10"><textarea name="message" placeholder="Votre message" class="required"></textarea></p>
@@ -61,8 +69,18 @@
 			<!-- A propos -->
 			<div class="grid_8 apropos">
 				<h3>A propos</h3>
+<<<<<<< HEAD
 				<p>Il y a très très longtemps, dans une galaxie très très lointaine, une souris, connue sous le nom de Grizzli, dominait l'univers. Son pelage était gris et doux. A première vue, Grizzli semblait tellement mignonne que ses désirs, aussi fous soient-ils, étaient des ordres. Cependant, son couroux était craint de tous ses sujets ...</p>
 				
+=======
+				<p>Cette section vous sert de présentation.</p>
+				<p>Pellentesque nec nisi at sapien sagittis sagittis. Aliquam eu 
+condimentum mauris. Proin accumsan enim at risus hendrerit lobortis. 
+Nunc sollicitudin sodales lectus, et rhoncus mi molestie hendrerit. 
+Vestibulum velit lorem, rhoncus a congue ultricies, faucibus facilisis 
+risus. Mauris turpis ante, aliquet ac venenatis at, ornare ut velit. 
+Duis ut erat neque, eget consectetur tellus. </p>
+>>>>>>> ff20ea25f6f29f67d57b3eeb1634602f088e5bb0
 			</div>
 			
 			<!-- Compétences -->
